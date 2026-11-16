@@ -1,4 +1,4 @@
-# Price Scraper + Currency Converter
+## Price Scraper + Currency Converter
 
 ## 1. Project Overview
 
@@ -72,4 +72,8 @@ The generated dataset contains the following columns:
 - Book Title
 - Price (GBP)
 - Price (KES)
+
+## 9. Error Handling
+
+The application uses Python exception handling (`try` and `except`) to manage website connection failures and currency API errors.
 
